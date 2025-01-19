@@ -1,4 +1,4 @@
-# Debugging Windows on Snapdragon 730/730G/732G (SM7125) Devices
+# Debugging Windows on Snapdragon 730/730G/732G (SM7150) Devices
 
 ## Requirements:
 
