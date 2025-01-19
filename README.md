@@ -8,8 +8,9 @@ This repository contains drivers, components and files needed to run Windows on 
 
 We currently support the following chipsets:
 
-- Snapdragon 730/730G/732G
-- N/A
+- Snapdragon 730
+- Snapdragon 730G
+- Snapdragon 732G
 
 In the following variants:
 
