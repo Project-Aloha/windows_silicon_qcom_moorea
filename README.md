@@ -15,12 +15,12 @@ We currently support the following chipsets:
 In the following variants:
 
 - MSM
-- APQ
+- N/A
 
 And with the following configurations:
 
-- N/A
-
+- Standard (Built in Snapdragon X15 LTE Modem)
+  
 ## Currently non functional chipset features
 
 - List to be done, consider "everything" for now.
