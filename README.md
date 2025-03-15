@@ -4,7 +4,8 @@ Welcome to the Snapdragon 730/730G/732G Windows BSP Platform repository.
 
 This repository contains drivers, components and files needed to run Windows on official Snapdragon 730/730G/732G platforms such as:
 
-- N/A
+- QRD
+- IDP
 
 We currently support the following chipsets:
 
@@ -15,8 +16,7 @@ We currently support the following chipsets:
 In the following variants:
 
 - MSM
-- N/A
-
+  
 And with the following configurations:
 
 - Standard (Built in Snapdragon X15 LTE Modem)
