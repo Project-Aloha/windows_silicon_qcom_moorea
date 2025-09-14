@@ -23,7 +23,24 @@ And with the following configurations:
   
 ## Currently non functional chipset features
 
-- List to be done, consider "everything" for now.
+- A specific set of onboard TLMM Interrupts **over PDC**
+- UART
+- GPI on specific I2C Buses
+- Battery Power Management Stack
+- Compute DSP (50/50)
+- Modem Processor Subsystem (50/50)
+- Audio DSP (50/50)
+- DSP based NPU
+- CPU Cores Frequency Management
+- Hyper-V
+- IOMMU Mappings for Hyper-V
+- NFC
+- PCIe
+- PM7150B/L/A's PWM/LPG/RGB controllers (for LEDs)
+- PM7150L/A PWM controller (for haptics)
+- Proper Thermal and SoC bandwidth management between all components
+- TPM
+- Type-C role detection
 
 ## Relevant Documentation
 
