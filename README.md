@@ -27,8 +27,6 @@ And with the following configurations:
 - UART
 - GPI on specific I2C Buses
 - Battery Power Management Stack
-- Compute DSP (50/50)
-- Modem Processor Subsystem (50/50)
 - Audio DSP (50/50)
 - DSP based NPU
 - CPU Cores Frequency Management
