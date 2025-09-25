@@ -24,12 +24,11 @@ And with the following configurations:
 ## Currently non functional chipset features
 
 - A specific set of onboard TLMM Interrupts **over PDC**
-- UART
 - GPI on specific I2C Buses
 - Battery Power Management Stack
 - Audio DSP (50/50)
 - DSP based NPU
-- CPU Cores Frequency Management
+- CPU Cores Frequency Management (for Snapdragon 730 and 730G)
 - Hyper-V
 - IOMMU Mappings for Hyper-V
 - NFC
