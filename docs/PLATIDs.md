@@ -11,6 +11,8 @@
 
 | ACPI _SUB String (Subsystem/Platform ID) | Matching SOID (SoC ID) | Matching PLST (Platform Subtype) | Friendly Name      |
 |------------------------------------------|------------------------|----------------------------------|--------------------|
+| IDP07150                                 | 365                    | 0                                | MSM™               |
+| IDP07150                                 | 366                    | 0                                | APQ™               |
 
 ### RUMI
 
@@ -21,6 +23,8 @@
 
 | ACPI _SUB String (Subsystem/Platform ID) | Matching SOID (SoC ID) | Matching PLST (Platform Subtype) | Friendly Name      |
 |------------------------------------------|------------------------|----------------------------------|--------------------|
+| QRD07150                                 | 365                    | 0                                | MSM™               |
+| QRD07150                                 | 366                    | 0                                | APQ™               |
 
 # Device Tree Platform Identifiers
 
@@ -35,6 +39,10 @@
 
 | Device Tree Source File Name           | Matching ACPI Condition (Against header values prefilled from SMEM) |
 |----------------------------------------|---------------------------------------------------------------------|
+sdmmagpie-idp-overlay.dts                | Lequal(\\\_SB_.PSUB, "IDP07150") && Lequal(\\\_SB_.PLST, 0)         |
+sdmmagpie-idp.dts                        | Lequal(\\\_SB_.PSUB, "IDP07150") && Lequal(\\\_SB_.PLST, 0)         |
+sdmmagpiep-idp-overlay.dts               | Lequal(\\\_SB_.PSUB, "IDPA7150") && Lequal(\\\_SB_.PLST, 0)         |
+sdmmagpiep-idp.dts                       | Lequal(\\\_SB_.PSUB, "IDPA7150") && Lequal(\\\_SB_.PLST, 0)         |
 
 ### RUMI
 
@@ -45,6 +53,10 @@
 
 | Device Tree Source File Name           | Matching ACPI Condition (Against header values prefilled from SMEM) |
 |----------------------------------------|---------------------------------------------------------------------|
+sdmmagpie-qrd-overlay.dts                | Lequal(\\\_SB_.PSUB, "QRD07150") && Lequal(\\\_SB_.PLST, 0)         |
+sdmmagpie-qrd.dts                        | Lequal(\\\_SB_.PSUB, "QRD07150") && Lequal(\\\_SB_.PLST, 0)         |
+sdmmagpiep-qrd-overlay.dts               | Lequal(\\\_SB_.PSUB, "QRDA7150") && Lequal(\\\_SB_.PLST, 0)         |
+sdmmagpiep-qrd.dts                       | Lequal(\\\_SB_.PSUB, "QRDA7150") && Lequal(\\\_SB_.PLST, 0)         |
 
 ---
 
