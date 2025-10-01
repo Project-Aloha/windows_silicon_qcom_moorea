@@ -47,7 +47,7 @@ You can find a few notes under the docs folder inside this repository.
 
 For specific Snapdragon 730/730G/732G BSP related inquiries, feel free to reach out on this github repository issue tracker, discussion board, or on telegram at:
 
-- https://t.me/project_aloha_issues (if your question is not Surface Duo related, or concerns a specific third party OEM made phone, or is about the Snapdragon 730/730G/732G BSP in general)
+- https://t.me/project_aloha_issues (if concerns a specific third party OEM made phone, or is about the Snapdragon 730/730G/732G BSP in general)
 
 (Wait for an answer as well, we are not always available for inquiries)
 
