@@ -1,12 +1,12 @@
-Copyright (c) 2017-2024 The Project Aloha authors
+Copyright (c) 2023-2025 Project Aloha
 
 Copyright (c) 2011-2024 Qualcomm Incorporated
 
 Copyright (c) 2019-2024 Microsoft Corporation
 
 
-This repository contains binary files sourced from Qualcomm Snapdragon 8cx
-laptops/tablets as well as the Surface Duo 1 and 2 original android firmware.
+This repository contains binary files sourced from Qualcomm Snapdragon 8cx and 7c
+laptops/tablets.
 
 
 Use of Surface Duo 1 and Surface Duo 2 firmware files is governed by the terms
@@ -42,7 +42,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ----------------------------------DuoWoA authors License Terms End Here------------------------------------
 
-Qualcomm Snapdragon 8cx Drivers are strictly the intellectual property of
+Qualcomm Snapdragon 8cx and 7c Drivers are strictly the intellectual property of
 Qualcomm Technologies Inc.
 
 

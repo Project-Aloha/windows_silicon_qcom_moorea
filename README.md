@@ -16,6 +16,7 @@ We currently support the following chipsets:
 In the following variants:
 
 - MSM
+- APQ
   
 And with the following configurations:
 
