@@ -27,7 +27,6 @@ And with the following configurations:
 - A specific set of onboard TLMM Interrupts **over PDC**
 - GPI on specific I2C Buses
 - Battery Power Management Stack
-- Audio DSP (50/50)
 - DSP based NPU
 - CPU Cores Frequency Management (for Snapdragon 730 and 730G)
 - Hyper-V
